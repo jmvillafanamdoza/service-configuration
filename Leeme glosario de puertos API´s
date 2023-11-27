@@ -1,0 +1,16 @@
+ApiCustomer
+server.port=8001
+ApiProductv2
+server.port=8002
+ApiCita
+server.port=8003
+ApiCart
+server.port=8004
+ApiCategory
+server.port=8005
+ApiAuth
+server.port=8006
+ApiMascota
+server.port=8007
+ApiEmployee
+server.port=8010
