@@ -12,5 +12,7 @@ ApiAuth
 server.port=8006
 ApiMascota
 server.port=8007
+ApiDoctor
+server.port=8008
 ApiEmployee
 server.port=8010
